@@ -1,10 +1,82 @@
 [
     {
-      "id": 1,
-      "title": "Essence Mascara Lash Princess",
-      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
-      "category": "beauty",
-      "price": 9.99,
-      "path": "images/198a8e3e-feb7-11f0-99d6-1e178c571429.webp"
+        "id": 21,
+        "title": "Cucumber",
+        "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+        "category": "groceries",
+        "price": 1.49,
+        "path": "images/dcc758c9-0018-11f1-8917-28392628d318.webp"
+    },
+    {
+        "id": 29,
+        "title": "Juice",
+        "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+        "category": "groceries",
+        "price": 3.99,
+        "path": "images/de761835-0018-11f1-badf-28392628d318.webp"
+    },
+    {
+        "id": 23,
+        "title": "Eggs",
+        "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+        "category": "groceries",
+        "price": 2.99,
+        "path": "images/e0223407-0018-11f1-b8fc-28392628d318.webp"
+    },
+    {
+        "id": 9,
+        "title": "Dolce Shine Eau de",
+        "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+        "category": "fragrances",
+        "price": 69.99,
+        "path": "images/e2000a1d-0018-11f1-89c6-28392628d318.webp"
+    },
+    {
+        "id": 16,
+        "title": "Apple",
+        "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+        "category": "groceries",
+        "price": 1.99,
+        "path": "images/e4882788-0018-11f1-ae11-28392628d318.webp"
+    },
+    {
+        "id": 16,
+        "title": "Apple",
+        "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+        "category": "groceries",
+        "price": 1.99,
+        "path": "images/e6705cd6-0018-11f1-a199-28392628d318.webp"
+    },
+    {
+        "id": 5,
+        "title": "Red Nail Polish",
+        "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+        "category": "beauty",
+        "price": 8.99,
+        "path": "images/e8cfc83b-0018-11f1-ac38-28392628d318.webp"
+    },
+    {
+        "id": 23,
+        "title": "Eggs",
+        "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+        "category": "groceries",
+        "price": 2.99,
+        "path": "images/ea62e425-0018-11f1-84ea-28392628d318.webp"
+    },
+    {
+        "id": 3,
+        "title": "Powder Canister",
+        "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+        "category": "beauty",
+        "price": 14.99,
+        "path": "images/ec6889aa-0018-11f1-af00-28392628d318.webp"
+    },
+    {
+        "id": 12,
+        "title": "Annibale Colombo Sofa",
+        "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+        "category": "furniture",
+        "price": 2499.99,
+        "path": "images/ee587873-0018-11f1-bfc9-28392628d318.webp"
     }
 ]
